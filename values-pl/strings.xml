@@ -24,14 +24,6 @@
     <string name="dialog_loading_authorization">Ładowanie Autoryzacji</string>
     <string name="dialog_abort">cancelled</string>
 
-    
-
-
-
-
-    <string name="prefs_bitly_private_always_title">Always Private</string>
-    <string name="prefs_bitly_private_always_desc">Save all shortened links as private</string>
-
     <string name="dialog_auth_bitly_required">You must be signed into bit.ly for this feature.</string>
     <string name="dialog_no">No Thank You</string>
 
@@ -67,7 +59,7 @@
     <string name="error_shortening">Nie można pobrać skróconego url, spróbuj ponownie.</string>
     <string name="error_expanding">Nie można pobrać długiego url, spróbuj ponownie.</string>
     <string name="error_parsing_response">Error parsing response from server.</string>
-    <string name="prefs_version_title">Version</string>
+
     <string name="pop_over_select_title">Select Url to Shorten</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_brevos_pop_over_list">Pick a Url</string>
@@ -109,5 +101,25 @@
     <string name="title_activity_history_search">Search</string>
     <string name="expand_pop_over">Url is already shortened.</string>
 
-    <string name="prefs_domain_select_summary">Default will use your bitly.com preference</string>
+    <string name="title_activity_settings">Ustawienia</string>
+
+    <string name="notice_nfc_unavailable">NFC Not available on this device.</string>
+    <string name="nfc_link_sent">Link Sent!</string>
+    <string name="about_open_source_licences">Open Source Licences</string>
+    <string name="notification_shortening_placeholder">Shortening %s</string>
+    <string name="notification_retry">Retry</string>
+    <string name="title_activity_wizard">Welcome</string>
+    <string name="wizard_welcome">Welcome to Brevos!</string>
+    <string name="wizard_welcome_about_history">BitDroid was my first Android app. It has evolved with the platform since Android 1.5 and has changed a lot over the years. \nI decided it was time to retire the BitDroid name in favor of something new. BitDroid (for bit.ly) is dead.</string>
+    <string name="wizard_welcome_about_brevos">Brevos is a completely redesigned version of BitDroid. Brevos is ALL new! New icon, new colors, new features, same great bit.ly link creation and stats.</string>
+    <string name="wizard_welcome_feedback">I hope that you enjoy the new version of BitDroid and continue sending feedback about things you would like to see.</string>
+    <string name="wizard_welcome_clipboard_screen_description">Clipboard url screen</string>
+    <string name="wizard_welcome_shorten_screen_description">Shorten result screen</string>
+    <string name="wizard_welcome_recent_screen_description">Recent links screen</string>
+    <string name="wizard_welcome_clipboard">Automatically detect URLs in clipboard for easy shortening.</string>
+    <string name="wizard_welcome_recent_links">Sign in to bit.ly to view your recent link history</string>
+    <string name="wizard_welcome_pop_over">Shorten from any app without leaving what you were doing!</string>
+    <string name="menu_action_previous">Previous</string>
+    <string name="menu_action_next">Next</string>
+    <string name="about_welcome">Welcome Screen</string>
 </resources>

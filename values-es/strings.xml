@@ -59,7 +59,7 @@
     <string name="error_shortening">Un problema consiguiendo el enlace, inténtalo otra vez.</string>
     <string name="error_expanding">Un problema consiguiendo el enlace original (URL largo), inténtalo otra vez</string>
     <string name="error_parsing_response">No puede leer la respuesta del servidor.</string>
-    <string name="prefs_version_title">Versión</string>
+
     <string name="pop_over_select_title">Elige una Url para acortar</string>
     <string name="title_activity_brevos_pop_over_list">Elige una Url para acortar</string>
     <string name="private_link">Url Privada</string>
@@ -99,5 +99,25 @@
     <string name="title_activity_history_search">Busqúeda</string>
     <string name="expand_pop_over">URL ya está acortado</string>
 
-    <string name="prefs_domain_select_summary">Default will use your bitly.com preference</string>
+    <string name="title_activity_settings">Configuración</string>
+
+    <string name="notice_nfc_unavailable">NFC no está disponible</string>
+    <string name="nfc_link_sent">Enlace enviado!</string>
+    <string name="about_open_source_licences">Licencias de open source</string>
+    <string name="notification_shortening_placeholder">Shortening %s</string>
+    <string name="notification_retry">intenta otra vez</string>
+    <string name="title_activity_wizard">Bienvenido</string>
+    <string name="wizard_welcome">¡Bienvenidos a Brevos!</string>
+    <string name="wizard_welcome_about_history">BitDroid fue mi primera aplicación para Android, se ha desarrollado con la plataforma desde Android 1.5 y ha cambiado mucho con los años. çnDecidí que era hora de retirarse el nombre BitDroid a favor de algo nuevo. BitDroid (por bit.ly) está muerto.</string>
+    <string name="wizard_welcome_about_brevos">Brevos es una versión completamente rediseñada de BitDroid. Brevos es todo nuevo, nuevo icono, nuevos colores, nuevas características, el mismo gran creación enlace bit.ly y estadísticas.</string>
+    <string name="wizard_welcome_feedback">Espero que disfruten de la nueva versión de BitDroid y que siguen enviando comentarios sobre cosas que te gustaría ver.</string>
+    <string name="wizard_welcome_clipboard_screen_description">pantalla de portapapeles </string>
+    <string name="wizard_welcome_shorten_screen_description">pantalla de acortar</string>
+    <string name="wizard_welcome_recent_screen_description">pantalla de enlaces recientes</string>
+    <string name="wizard_welcome_clipboard">Automatically detect URLs in clipboard for easy shortening.</string>
+    <string name="wizard_welcome_recent_links">Autoriza a bit.ly para ver sus enlaces receintes</string>
+    <string name="wizard_welcome_pop_over">¡Acortar sin para lo que estaba haciendo!</string>
+    <string name="menu_action_previous">Anterior</string>
+    <string name="menu_action_next">Próximo</string>
+    <string name="about_welcome">pantalla bienvenido</string>
 </resources>
