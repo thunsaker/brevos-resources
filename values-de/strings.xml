@@ -113,7 +113,7 @@
     <string name="wizard_welcome_about_brevos">Brevos ist eine komplett neu gestalltete Version von BitDroid. Brevos ist KOMPLETT neu! Neues Icon, neue Farben, new Funktionen, gleiche großartige bit.ly Link Erstellung und Statistiken.</string>
     <string name="wizard_welcome_feedback">Ich hoffe, dass ihnen die neue Version von BitDroid gefällt und Sie mir weiterhin mitteilen, wie ich die App verbessern kann.</string>
     <string name="wizard_welcome_clipboard_screen_description">Anzeige der Url in der Zwischenablage</string>
-    <string name="wizard_welcome_shorten_screen_description">Anzeige der Kürzungs Ergebnise/string>
+    <string name="wizard_welcome_shorten_screen_description">Anzeige der Kürzungs Ergebnise</string>
     <string name="wizard_welcome_recent_screen_description">Anzeige der kürzlichen Links</string>
     <string name="wizard_welcome_clipboard">Erkenne automatisch URLs in der Zwischenablage für einfaches kürzen</string>
     <string name="wizard_welcome_recent_links">Mit bit.ly anmelden, um kürzliche erstellte Links anzuzeigen</string>
@@ -121,4 +121,19 @@
     <string name="menu_action_previous">Vorheriges</string>
     <string name="menu_action_next">Nächstes</string>
     <string name="about_welcome">Willkommens Screen</string>
+
+    <string name="action_bundle">Bundles</string>
+    <string name="loading_title">Loading Title…</string>
+    <string name="error_loading_search">Error loading search results</string>
+    <string name="open_link_details">Open Link Details</string>
+    <string name="search_private_include">Include Private</string>
+    <string name="search_private_exclude">Exclude Private</string>
+    <string name="search_private_only">Private Only</string>
+    <string name="search_archive_include">Include Archive</string>
+    <string name="search_archive_exclude">Exclude Archive</string>
+    <string name="search_archive_only">Archive Only</string>
+    <string name="action_history">History</string>
+    <string name="clicks_total_your_link">Total clicks from your link</string>
+    <string name="clicks_total_global_link">Total clicks from global link</string>
+    <string name="search_no_results">No results found.</string>
 </resources>

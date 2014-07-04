@@ -120,4 +120,19 @@
     <string name="menu_action_previous">Anterior</string>
     <string name="menu_action_next">Próximo</string>
     <string name="about_welcome">pantalla bienvenido</string>
+
+    <string name="action_bundle">Bundles</string>
+    <string name="loading_title">Loading Title…</string>
+    <string name="error_loading_search">Error loading search results</string>
+    <string name="open_link_details">Open Link Details</string>
+    <string name="search_private_include">Include Private</string>
+    <string name="search_private_exclude">Exclude Private</string>
+    <string name="search_private_only">Private Only</string>
+    <string name="search_archive_include">Include Archive</string>
+    <string name="search_archive_exclude">Exclude Archive</string>
+    <string name="search_archive_only">Archive Only</string>
+    <string name="action_history">History</string>
+    <string name="clicks_total_your_link">Total clicks from your link</string>
+    <string name="clicks_total_global_link">Total clicks from global link</string>
+    <string name="search_no_results">No results found.</string>
 </resources>
