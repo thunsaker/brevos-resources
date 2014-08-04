@@ -94,7 +94,7 @@
     <string name="title_activity_wizard">Welkom</string>
     <string name="wizard_welcome">Welkom in Brevos!</string>
     <string name="wizard_welcome_about_history">BitDroid was mijn eerste Android-app. Het heeft jaren mee-geëvolueerd met het platform sinds Android 1.5 en is door de jaren heen een hoop veranderd. \nIk besloot dat het tijd werd op BitDroid terug te trekken om iets nieuws in de plaats terug te zetten. BitDroid (for bit.ly) bestaat niet meer.</string>
-    <string name="wizard_welcome_about_brevos">Brevos is een compleet herontworpen versie van  BitDroid. Brevos is HELEMAAL nieuw! Nieuw icoontje, nieuwe kleuren, new functies, maar met dezelfde geweldige bit.ly linkcreatie en -statistieken.</string>
+    <string name="wizard_welcome_about_brevos">Brevos is een compleet herontworpen versie van  BitDroid. Brevos is HELEMAAL nieuw! Nieuw icoontje, nieuwe kleuren, nieuwe functies, maar met dezelfde geweldige bit.ly linkcreatie en linkstatistieken.</string>
     <string name="wizard_welcome_feedback">Ik hoop dat je van de nieuwe versie van BitDroid geniet en dat jullie mij feedback blijven sturen over dingen die jullie graag nog toegevoegd zouden willen zien.</string>
     <string name="wizard_welcome_clipboard_screen_description">Klembord URL-scherm</string>
     <string name="wizard_welcome_shorten_screen_description">Inkortingsresultaat-scherm</string>
@@ -105,6 +105,7 @@
     <string name="menu_action_previous">Vorige</string>
     <string name="menu_action_next">Volgende</string>
     <string name="about_welcome">Welkomstscherm</string>
+<<<<<<< HEAD
 
     <string name="action_bundle">Bundles</string>
     <string name="loading_title">Loading Title…</string>
@@ -120,4 +121,21 @@
     <string name="clicks_total_your_link">Total clicks from your link</string>
     <string name="clicks_total_global_link">Total clicks from global link</string>
     <string name="search_no_results">No results found.</string>
+=======
+	
+	<string name="action_bundle">Bundels</string>
+    <string name="loading_title">Titel aan het laden…</string>
+    <string name="error_loading_search">Error tijdens het laden van zoekresultaten</string>
+    <string name="open_link_details">Open Linkdetails</string>
+    <string name="search_private_include">Inclusief Privé</string>
+    <string name="search_private_exclude">Exclusief Privé</string>
+    <string name="search_private_only">Enkel Prive</string>
+    <string name="search_archive_include">Inclusief archief</string>
+    <string name="search_archive_exclude">Exclusief archief</string>
+    <string name="search_archive_only">Enkel archief</string>
+    <string name="action_history">Geschiedenis</string>
+    <string name="clicks_total_your_link">Totaalaantal klikken op deze link</string>
+    <string name="clicks_total_global_link">Totaalaantal wereldwijde klikken op deze link</string>
+    <string name="search_no_results">Geen resultaten gevonden.</string>
+>>>>>>> 0d9c502ae5e6b82946f983656b0a515af0cee94f
 </resources>
